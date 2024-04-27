@@ -1,4 +1,4 @@
-CISC 474 Group 2:
+ADA24W Group 2:
 
 This repo contains all the python code used for this project.
 All the file are based on the basic data process code at the start and different for each research questions.
@@ -6,10 +6,19 @@ All the file are based on the basic data process code at the start and different
 To run the code the devGPT dataset is required.
 https://github.com/NAIST-SE/DevGPT
 
+```
+cd ADA24WGroup2
+git clone https://github.com/NAIST-SE/DevGPT.git
+```
+
 The .ipynb files should be in the root directory of the dataset meaning
 
+
 Use requirements file to download all package:
+
+```
 pip install -r requirements.txt
+```
 
 - DevGPT
 	|- snapshot_...

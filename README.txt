@@ -8,6 +8,9 @@ https://github.com/NAIST-SE/DevGPT
 
 The .ipynb files should be in the root directory of the dataset meaning
 
+Use requirements file to download all package:
+pip install -r requirements.txt
+
 - DevGPT
 	|- snapshot_...
 	|- // everything in the DevGPT github repo

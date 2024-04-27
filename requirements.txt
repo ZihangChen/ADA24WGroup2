@@ -9,3 +9,5 @@ torch
 google
 sklearn
 textblob
+collections
+pprint
